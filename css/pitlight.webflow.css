@@ -693,6 +693,14 @@ li {
     height: auto;
   }
 
+  h1 {
+    font-size: 1.75em;
+  }
+
+  .youtube {
+    max-width: 300px;
+  }
+  
   .hero-wrap {
     flex-direction: column;
     flex: 1;
